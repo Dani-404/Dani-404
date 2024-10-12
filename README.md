@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Daniel</h3>
 
-<hr>
+<hr />
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -11,6 +11,6 @@
   </a>
 </p>
 
-<hr>
-<br>
+<hr />
+
 <h4 align="center"><a href=https://github.com/Dani-404?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
