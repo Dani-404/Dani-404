@@ -9,4 +9,4 @@
 
 <hr />
 
-<h4 align="center"><a href=https://github.com/Dani-404?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/Dani-404?tab=repositories" title="Show Repositories">📁 My repositories</a></h4>
