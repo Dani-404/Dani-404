@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Daniel</h3>
-<p align="center"></p>![](https://komarev.com/ghpvc/?username=Dani-404)</p>
+<p align="center">[![Dani-404 stats](https://github-readme-stats.vercel.app/api?username=Dani-404)](https://github.com/Dani-404)</p>
 <hr />
 <p align=center>
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dani-404&show_icons=true&theme=gotham">
